@@ -1,0 +1,31 @@
+body {
+  font-family: 'cursive', cursive;
+  text-align: center;
+  background-color: #DC143C		; /* Cor de fundo  */
+  color: #000; /* Ctext */
+  transition: background-color 0.5s, color 0.5s;
+}
+
+#container {
+  margin: 100px;
+}
+
+#message {
+  font-size: 24px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  padding: 10px 20px;
+  background-color: #48D1CC	; 
+
+  color: #000; /* Ctext */
+  border-radius: 10px;
+}
+
+.hidden {
+  display: none;
+}
+  
